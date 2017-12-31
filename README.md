@@ -51,7 +51,7 @@ SciRev 1.0
 * **Yasin Kütük** <br/>
 * **[YasinKutuk](https://github.com/yasinkutuk)**
 
-* **[e-posta](yasinkutuk@gmail.com)**
+* **[e-posta](mailto:yasinkutuk@gmail.com)**
 
 
 ## License
