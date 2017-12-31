@@ -48,9 +48,10 @@ SciRev 1.0
 
 ## Authors
 
-* **Yasin Kütük** - [YasinKutuk](https://github.com/yasinkutuk)
+* **Yasin Kütük** 
+**[YasinKutuk](https://github.com/yasinkutuk)**
 
-* **e-posta** - [e-posta](yasinkutuk@gmail.com)
+**[e-posta](yasinkutuk@gmail.com)**
 
 
 ## License
