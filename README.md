@@ -38,7 +38,7 @@ bağlantısı ile tüm proje indirilebilir.
 ## Built With
 
 * [Python](https://www.python.org/download/releases/2.7.2/) - Programlama dili
-* [WPS](https://www.wps.com/) - XLSX dönüşümü
+* [WPS](https://www.wps.com/) - XLS dönüşümü
 
 
 
